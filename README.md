@@ -1,2 +1,37 @@
-# postgresql-sql-practice
-PostgreSQL solutions covering JOINs, CTEs, subqueries, window functions and data aggregation
+# PostgreSQL SQL Practice
+
+Репозиторий с моими решениями задач по SQL на платформе LeetCode. Основной диалект — PostgreSQL.
+
+## Цель проекта
+
+Развить и продемонстрировать практические навыки написания SQL-запросов для анализа данных и решения задач разной сложности.
+
+## Используемые технологии
+
+- PostgreSQL;
+- SQL;
+- LeetCode;
+- GitHub.
+
+## Прогресс
+
+**Решено задач: 0**
+
+Каждое решение сохраняется в отдельном файле с расширением `.sql`. Название файла содержит номер и краткое название задачи, например:
+
+```text
+0185-department-top-three-salaries.sql
+```
+
+В начале файла указывается ссылка на оригинальную задачу:
+
+```sql
+-- LeetCode 185: Department Top Three Salaries
+-- https://leetcode.com/problems/department-top-three-salaries/
+```
+
+## Источник задач
+
+Задачи выбираются из раздела [Database Problems на LeetCode](https://leetcode.com/problem-list/database/).
+
+В репозитории публикуются мои собственные решения. Полные условия задач не копируются — для каждой задачи указывается ссылка на оригинальную страницу LeetCode.
