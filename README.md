@@ -1,6 +1,5 @@
 # PostgreSQL SQL Practice
-
-Репозиторий с моими решениями задач по SQL на платформе LeetCode. Основной диалект — PostgreSQL.
+Репозиторий с моими решениями задач по SQL на платформах LeetCode и SQL Academy. Основной диалект — PostgreSQL.
 
 ## Цель проекта
 
@@ -30,8 +29,9 @@
 -- https://leetcode.com/problems/department-top-three-salaries/
 ```
 
-## Источник задач
+## Источники задач
 
-Задачи выбираются из раздела [Database Problems на LeetCode](https://leetcode.com/problem-list/database/).
+- [LeetCode Database Problems](https://leetcode.com/problem-list/database/)
+- [SQL Academy](https://sql-academy.org/ru/trainer)
 
-В репозитории публикуются мои собственные решения. Полные условия задач не копируются — для каждой задачи указывается ссылка на оригинальную страницу LeetCode.
+В репозитории публикуются мои собственные решения. Полные условия задач не копируются — для каждой задачи указывается ссылка на оригинальную страницу.
